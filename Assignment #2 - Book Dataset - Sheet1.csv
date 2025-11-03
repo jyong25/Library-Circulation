@@ -1,0 +1,6 @@
+BookID,Genre,Title,Author,Condition,Status
+1,Fantasy,Harry Potter and the Sorcerer’s Stone,J.K. Rowling,New,Available
+2,Dystopian,1984,George Orwell,Good,Borrowed
+3,Romance,Pride and Prejudice,Jane Austen,Fair,Reserved
+4,Classic,The Great Gatsby,F. Scott Fitzgerald,Good,Available
+5,Mystery,The Hound of the Baskervilles,Arthur Conan Doyle,Good,Available

@@ -1,0 +1,5 @@
+BorrowerID,BorrowerName,BorrowerAddress,BorrowerPhone,BooksBorrowed,Fees
+1,Andrew Nguyen,5 Oak Grove Ave,2221111,1,0
+2,Kevin Li,16 Sutton Farm Rd,2227777,0,5
+3,Mohit Sanagavarapu,34 Cedar Hill St,2223333,2,0
+4,Nick Campanella,84 Birch Blvd,2229999,0,0
